@@ -1,0 +1,2 @@
+module ORM_JPA {
+}
